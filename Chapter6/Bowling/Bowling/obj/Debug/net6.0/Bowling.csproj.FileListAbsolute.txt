@@ -1,0 +1,15 @@
+C:\anacarol\src\github\Bowling\Bowling\Bowling\bin\Debug\net6.0\Bowling.exe
+C:\anacarol\src\github\Bowling\Bowling\Bowling\bin\Debug\net6.0\Bowling.deps.json
+C:\anacarol\src\github\Bowling\Bowling\Bowling\bin\Debug\net6.0\Bowling.runtimeconfig.json
+C:\anacarol\src\github\Bowling\Bowling\Bowling\bin\Debug\net6.0\Bowling.dll
+C:\anacarol\src\github\Bowling\Bowling\Bowling\bin\Debug\net6.0\Bowling.pdb
+C:\anacarol\src\github\Bowling\Bowling\Bowling\obj\Debug\net6.0\Bowling.csproj.AssemblyReference.cache
+C:\anacarol\src\github\Bowling\Bowling\Bowling\obj\Debug\net6.0\Bowling.GeneratedMSBuildEditorConfig.editorconfig
+C:\anacarol\src\github\Bowling\Bowling\Bowling\obj\Debug\net6.0\Bowling.AssemblyInfoInputs.cache
+C:\anacarol\src\github\Bowling\Bowling\Bowling\obj\Debug\net6.0\Bowling.AssemblyInfo.cs
+C:\anacarol\src\github\Bowling\Bowling\Bowling\obj\Debug\net6.0\Bowling.csproj.CoreCompileInputs.cache
+C:\anacarol\src\github\Bowling\Bowling\Bowling\obj\Debug\net6.0\Bowling.dll
+C:\anacarol\src\github\Bowling\Bowling\Bowling\obj\Debug\net6.0\refint\Bowling.dll
+C:\anacarol\src\github\Bowling\Bowling\Bowling\obj\Debug\net6.0\Bowling.pdb
+C:\anacarol\src\github\Bowling\Bowling\Bowling\obj\Debug\net6.0\Bowling.genruntimeconfig.cache
+C:\anacarol\src\github\Bowling\Bowling\Bowling\obj\Debug\net6.0\ref\Bowling.dll
