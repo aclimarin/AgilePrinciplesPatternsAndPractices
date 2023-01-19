@@ -1,0 +1,15 @@
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\bin\Debug\net6.0\Shape.exe
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\bin\Debug\net6.0\Shape.deps.json
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\bin\Debug\net6.0\Shape.runtimeconfig.json
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\bin\Debug\net6.0\Shape.dll
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\bin\Debug\net6.0\Shape.pdb
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\obj\Debug\net6.0\Shape.csproj.AssemblyReference.cache
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\obj\Debug\net6.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\obj\Debug\net6.0\Shape.AssemblyInfoInputs.cache
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\obj\Debug\net6.0\Shape.AssemblyInfo.cs
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\obj\Debug\net6.0\Shape.csproj.CoreCompileInputs.cache
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\obj\Debug\net6.0\Shape.dll
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\obj\Debug\net6.0\refint\Shape.dll
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\obj\Debug\net6.0\Shape.pdb
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\obj\Debug\net6.0\Shape.genruntimeconfig.cache
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter9\Shape\Shape\obj\Debug\net6.0\ref\Shape.dll
