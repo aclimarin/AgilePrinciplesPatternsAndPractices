@@ -20,7 +20,7 @@ namespace SimpleTree
             return FindSubNode(SelectSubNode(key), key);
         }
 
-        private object SelectSubNode(IComparable key)
+        private int SelectSubNode(IComparable key)
         {
             return key.CompareTo(_key) < 0 ? _left : _right;
         }
