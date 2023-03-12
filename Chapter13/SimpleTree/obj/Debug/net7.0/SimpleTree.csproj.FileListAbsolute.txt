@@ -1,0 +1,15 @@
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\bin\Debug\net7.0\SimpleTree.exe
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\bin\Debug\net7.0\SimpleTree.deps.json
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\bin\Debug\net7.0\SimpleTree.runtimeconfig.json
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\bin\Debug\net7.0\SimpleTree.dll
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\bin\Debug\net7.0\SimpleTree.pdb
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\obj\Debug\net7.0\SimpleTree.csproj.AssemblyReference.cache
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\obj\Debug\net7.0\SimpleTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\obj\Debug\net7.0\SimpleTree.AssemblyInfoInputs.cache
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\obj\Debug\net7.0\SimpleTree.AssemblyInfo.cs
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\obj\Debug\net7.0\SimpleTree.csproj.CoreCompileInputs.cache
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\obj\Debug\net7.0\SimpleTree.dll
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\obj\Debug\net7.0\refint\SimpleTree.dll
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\obj\Debug\net7.0\SimpleTree.pdb
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\obj\Debug\net7.0\SimpleTree.genruntimeconfig.cache
+C:\anacarol\src\github\AgilePrinciplesPatternsAndPractices\Chapter13\SimpleTree\obj\Debug\net7.0\ref\SimpleTree.dll
